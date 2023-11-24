@@ -1,0 +1,38 @@
+.BaCk{
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    background-image: url("../../img/homeback.jpg");
+}
+.l1{
+    background-image: url("../../img/homedisp.jpg");
+    background-size:cover;
+    height:60vh;
+    width: 108vh;
+    margin-left: 20px;
+    border-radius: 15px;
+
+}
+.l2{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.l3{
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.demopaper{
+    background-color: white;
+    width: 150px;
+    color: black;
+    text-align: center;
+    align-items: center;
+    padding-top: 12px;
+    padding-bottom: 40px;
+    border-radius: 10px;
+}
+.uselink{
+    color:white
+}
+
